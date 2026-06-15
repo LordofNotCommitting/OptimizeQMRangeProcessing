@@ -10,3 +10,6 @@ This mod does the following:
 1. Limit the range of projectile to 30 for non-ricocheting projectiles. Projectile will despawn after 30 distance. (ricocheting projectiles already have internal range limit)
 2. Raise the speed of the projectile that travelled more than 10 tile to fastest projectile speed in the game. (which is beam projectile speed of 60)
 ...which will attempt to address this issue.
+
+v1.01:
+Under very limited circumstance, projectile was able to pierce enemy when it is not suppose to. Updated the projectile speed to 50 which is current highest projectile speed ingame. (from unstable beta 0.9.9)
