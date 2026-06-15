@@ -12,4 +12,4 @@ This mod does the following:
 ...which will attempt to address this issue.
 
 v1.01:
-Under very limited circumstance, projectile was able to pierce enemy when it is not suppose to. Updated the projectile speed to 50 which is current highest projectile speed ingame. (from unstable beta 0.9.9)
+Under very limited circumstance, projectile was able to pierce enemy when it is not suppose to. Updated the projectile speed to 60->50 which is current highest projectile speed ingame. (from unstable beta 0.9.9)
