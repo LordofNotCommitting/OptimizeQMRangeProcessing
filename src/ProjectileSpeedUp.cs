@@ -18,9 +18,10 @@ namespace OptimizeQMRangeProcessing
         public static void Prefix(MapGrid mapGrid, ref Ballistic ballistic, bool hitWall)
         {
             //Plugin.Logger.Log("--- Range Optimizing applied");
+            //To speed of 0.02f. which is 1/50. 50 is current fastest projectile speed as of right now.
             if (ballistic.PassedDistance > 10)
             {
-                ballistic.PassTileDuration = 0.016666668f;
+                ballistic.PassTileDuration = 0.02f;
             }
         }
     }
