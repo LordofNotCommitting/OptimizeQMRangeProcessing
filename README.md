@@ -8,7 +8,7 @@ So any very slow projectile you shoot - say, disruptor pistol from DayDream - ha
 
 This mod does the following:
 1. Limit the range of projectile to 30 for non-ricocheting projectiles. Projectile will despawn after 30 distance. (ricocheting projectiles already have internal range limit)
-2. Raise the speed of the projectile that travelled more than 10 tile to fastest projectile speed in the game. (which is beam projectile speed of 60)
+2. Raise the speed of the projectile that travelled more than 10 tile to fastest projectile speed in the game. (which is beam projectile speed of 50)
 ...which will attempt to address this issue.
 
 v1.01:
