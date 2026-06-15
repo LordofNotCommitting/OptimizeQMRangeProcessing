@@ -1,4 +1,3 @@
-For Quasimorph version 0.9.5, 0.9.7.
 Can be added or removed without issue.
 
 The game tries to simulate all visible fired projectile until it expires. So projectile will not expire until it hit a wall or a target.
